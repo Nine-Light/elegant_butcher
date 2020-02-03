@@ -1,0 +1,10 @@
+Vocaloid Pose Data file
+
+mystickman2.osm;		// 親ファイル名
+1;				// 総ポーズボーン数
+
+Bone0{全ての親
+  0.002439,-0.210224,0.011055;				// trans x,y,z
+  0.000000,0.000000,0.000000,1.000000;		// Quaternion x,y,z,w
+}
+
